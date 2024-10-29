@@ -1,4 +1,7 @@
-import subprocess, threading, time, re
+import subprocess
+import threading
+import time
+import re
 from .static_analyze import get_package_name, get_main_activity, get_permission, get_apk_path
 
 package_name = None

@@ -1,4 +1,10 @@
-import zipfile, os, platform, re, math, time, random
+import zipfile
+import os
+import platform
+import re
+import math
+import time
+import random
 from androguard.core.bytecodes.apk import APK
 from PIL import Image
 from MysqlModel.views import query_permission

@@ -1,4 +1,6 @@
-import os, shutil, subprocess
+import os
+import shutil
+import subprocess
 
 def sort_images_by_file_size(directory):
     images = []

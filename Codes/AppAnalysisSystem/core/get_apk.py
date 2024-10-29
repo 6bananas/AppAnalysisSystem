@@ -1,4 +1,7 @@
-import cv2, requests, os, re
+import cv2
+import requests
+import os
+import re
 from pyzbar.pyzbar import decode
 from .static_analyze import set_apk_path
 from concurrent.futures import ThreadPoolExecutor

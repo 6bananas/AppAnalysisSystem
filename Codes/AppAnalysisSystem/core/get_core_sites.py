@@ -1,4 +1,6 @@
-import os, requests, ahocorasick
+import os
+import requests
+import ahocorasick
 from .dynamic_analyze import get_dynamic_flag
 
 requests.packages.urllib3.disable_warnings()

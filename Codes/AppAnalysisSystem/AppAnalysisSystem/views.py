@@ -1,4 +1,5 @@
-import json, threading
+import json
+import threading
 from core.get_messages import *
 from core.get_apk import *
 from core.static_analyze import *
