@@ -166,7 +166,7 @@ python manage.py runserver 0.0.0.0:8000
 
 ### 关于作品
 
-前端基于 [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) 二次开发，因为它本身就是一个仓库，不好一起放上来，所以打包成了压缩包。
+前端基于 [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) 二次开发，因为它本身是一个仓库，不好一起放上来，所以打包成了压缩包。
 
 作品还有很多可以改进和完善的地方，目前相当于只是做了一个大体的壳出来。
 
