@@ -1,5 +1,7 @@
 # AppAnalysisSystem
 
+__基于多特征融合和集成学习的涉诈 APP 智能识别分析系统__
+
 第十三届“中国软件杯”大学生软件设计大赛 A 组赛题 [A2 -涉诈APP智能识别分析系统](https://www.cnsoftbei.com/content-3-980-1.html) 落榜作品。
 
 前后端分离架构，前端基于 [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) 二次开发，后端基于 Django 框架开发（比赛版本使用的是 Flask 框架）。
