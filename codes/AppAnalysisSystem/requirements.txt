@@ -1,0 +1,17 @@
+pyzbar
+Pillow
+androguard==3.3.5
+werkzeug
+tensorflow
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+pyahocorasick
+opencv-python
+Django
+channels
+pymysql
+requests
+django-cors-headers
+asgiref
